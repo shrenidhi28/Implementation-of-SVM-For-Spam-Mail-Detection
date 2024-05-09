@@ -63,7 +63,7 @@ print(cl)
 ![image](https://github.com/shrenidhi28/Implementation-of-SVM-For-Spam-Mail-Detection/assets/155261096/d02bf714-d32e-4724-b490-89fc5a731d82)
 
 # DATA INFO:
-![image](https://github.com/shrenidhi28/Implementation-of-SVM-For-Spam-Mail-Detection/assets/155261096/a9bb9790-d565-4b4b-b80b-a2ec97afa7b4)
+<img src="https://github.com/shrenidhi28/Implementation-of-SVM-For-Spam-Mail-Detection/assets/155261096/a9bb9790-d565-4b4b-b80b-a2ec97afa7b4" width=500 height=300>
 
 # Y PRED:
 ![image](https://github.com/shrenidhi28/Implementation-of-SVM-For-Spam-Mail-Detection/assets/155261096/ae874e14-60a6-4f76-8227-3fd3d536888b)
