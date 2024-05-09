@@ -58,7 +58,7 @@ print(cl)
 
 
 ## OUTPUT:
-![SVM For Spam Mail Detection](sam.png)
+
 # DATA:
 ![image](https://github.com/shrenidhi28/Implementation-of-SVM-For-Spam-Mail-Detection/assets/155261096/d02bf714-d32e-4724-b490-89fc5a731d82)
 
